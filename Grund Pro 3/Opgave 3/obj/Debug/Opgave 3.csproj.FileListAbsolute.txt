@@ -1,0 +1,8 @@
+C:\Users\HFGF\Desktop\GF 1\Grund Pro 3\Opgave 3\bin\Debug\Opgave 3.exe.config
+C:\Users\HFGF\Desktop\GF 1\Grund Pro 3\Opgave 3\bin\Debug\Opgave 3.exe
+C:\Users\HFGF\Desktop\GF 1\Grund Pro 3\Opgave 3\bin\Debug\Opgave 3.pdb
+C:\Users\HFGF\Desktop\GF 1\Grund Pro 3\Opgave 3\obj\Debug\Opgave 3.csproj.AssemblyReference.cache
+C:\Users\HFGF\Desktop\GF 1\Grund Pro 3\Opgave 3\obj\Debug\Opgave 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\Desktop\GF 1\Grund Pro 3\Opgave 3\obj\Debug\Opgave 3.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\GF 1\Grund Pro 3\Opgave 3\obj\Debug\Opgave 3.exe
+C:\Users\HFGF\Desktop\GF 1\Grund Pro 3\Opgave 3\obj\Debug\Opgave 3.pdb
