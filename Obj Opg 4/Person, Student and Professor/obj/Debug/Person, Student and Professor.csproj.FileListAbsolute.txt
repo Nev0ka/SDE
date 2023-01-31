@@ -1,0 +1,8 @@
+C:\Users\HFGF\Desktop\GF 1\Obj Opg 4\Person, Student and Professor\bin\Debug\Person, Student and Professor.exe.config
+C:\Users\HFGF\Desktop\GF 1\Obj Opg 4\Person, Student and Professor\bin\Debug\Person, Student and Professor.exe
+C:\Users\HFGF\Desktop\GF 1\Obj Opg 4\Person, Student and Professor\bin\Debug\Person, Student and Professor.pdb
+C:\Users\HFGF\Desktop\GF 1\Obj Opg 4\Person, Student and Professor\obj\Debug\Person, Student and Professor.csproj.AssemblyReference.cache
+C:\Users\HFGF\Desktop\GF 1\Obj Opg 4\Person, Student and Professor\obj\Debug\Person, Student and Professor.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\Desktop\GF 1\Obj Opg 4\Person, Student and Professor\obj\Debug\Person, Student and Professor.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\GF 1\Obj Opg 4\Person, Student and Professor\obj\Debug\Person, Student and Professor.exe
+C:\Users\HFGF\Desktop\GF 1\Obj Opg 4\Person, Student and Professor\obj\Debug\Person, Student and Professor.pdb
