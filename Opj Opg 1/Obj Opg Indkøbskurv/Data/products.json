@@ -1,0 +1,23 @@
+[
+  {
+    "id":  1,
+    "Title": "Tickets",
+    "Stock": 200,
+    "Price": 249.99,
+    "IsLimited": true
+  },
+  {
+    "id":  2,
+    "Title": "Sweatshirt",
+    "Stock": 300,
+    "Price": 59.99,
+    "IsLimited": false
+  },
+  {
+    "id":  3,
+    "Title": "Poster",
+    "Stock": 1000,
+    "Price": 24.99,
+    "IsLimited": false
+  }
+]

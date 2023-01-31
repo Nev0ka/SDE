@@ -1,0 +1,28 @@
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\Obj Opg Indkøbskurv.exe.config
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\Obj Opg Indkøbskurv.exe
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\Obj Opg Indkøbskurv.pdb
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\obj\Debug\Obj Opg Indkøbskurv.csproj.AssemblyReference.cache
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\obj\Debug\Obj Opg Indkøbskurv.csproj.SuggestedBindingRedirects.cache
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\obj\Debug\Obj Opg Indkøbskurv.csproj.CoreCompileInputs.cache
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\obj\Debug\Obj Opg Indkøbskurv.exe
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\obj\Debug\Obj Opg Indkøbskurv.pdb
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Buffers.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Memory.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Text.Json.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.ValueTuple.dll
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Buffers.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Memory.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Text.Json.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\System.ValueTuple.xml
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\obj\Debug\Obj Opg Indkøbskurv.csproj.CopyComplete
+C:\Users\HFGF\Desktop\GF 1\Obj Opg Indkøbskurv\Obj Opg Indkøbskurv\bin\Debug\Data\products.json
